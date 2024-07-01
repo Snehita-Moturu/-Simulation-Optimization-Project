@@ -1,2 +1,2 @@
-# -Simulation-Optimization-Project
+# Simulation-Optimization-Project
  Simulation Optimization Project
